@@ -6,6 +6,19 @@ Extracted from snapshot of the WebKit source tree taken from http://webkit.org/g
 
 Original location: `Tools/Scripts`
 
+Known checkers:
+
+- cpp
+- cmake
+- changelog
+- javascipt
+- json
+- png
+- python
+- text
+- xcodeproj
+- xml
+
 ## Usage
 
 Detailed help: `<tool-path>/check-webkit-style -h`
